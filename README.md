@@ -1,6 +1,6 @@
 # ParkEase — Parking Slot Reservation System
 
-**COP 4710 — Online Parking Management System* · Database design course project
+*COP 4710 — Online Parking Management System* · Database design course project
 
 ## 1. Project Title & Overview
 
